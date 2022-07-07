@@ -51,11 +51,6 @@ input {
   margin-right: 10px;
 }
 
-.info input:focus {
-  background: #eee;
-  outline: none;
-}
-
 .info-button {
   vertical-align: top;
   height: 98px;
